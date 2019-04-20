@@ -1,0 +1,39 @@
+        .center { text-align: center }
+        .center table {margin-left:auto; margin-right:auto;}
+        .left {text-align: right}
+        .right {text-align: left}
+        .error {color: red;}
+    
+.table {
+     background-color: beige;
+     font-weight: 600;
+     margin-top:60px;
+     margin-left:25%;
+     margin-right:25%;
+     width:50%;
+}
+table {
+     background-color: beige;
+     font-weight: 600;
+     margin-top:60px;
+     margin-left:25%;
+     margin-right:25%;
+     width:50%;
+}
+
+        th, td {
+        margin: auto;
+        text-align: center;
+        border: 5px ridge black;
+        width:20%;
+       }
+
+        td {
+        text-align:center;
+        }
+        
+
+  body {
+      position: relative;
+  }
+
